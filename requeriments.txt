@@ -1,0 +1,9 @@
+#Command -> sudo pip3 install -r requeriments.txt
+#sudo apt install tesseract-ocr-por  -> pacote da lingua portuguesa
+
+
+pytesseract == 0.3
+numpy >= 1.20
+pillow >= 0
+cv2 >= 0
+argparse >= 0
